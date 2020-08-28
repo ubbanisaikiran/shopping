@@ -1,0 +1,116 @@
+.body{
+  font-family: montserrat;
+}
+#Title{
+  background-color: #FFD700
+}
+.container-fluid{
+  padding: 5% ;
+}
+.h1{
+  padding-top: 3%;
+
+  font-family:montserrat;
+}
+.h2{
+  padding: 3%;
+font-family: montserrat;
+
+}
+.h3{
+    padding: 3%;
+  font-family: montserrat;
+
+
+}
+.get{
+  height: 560px;
+  width: 710px;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5em;
+
+}
+.nav-item{
+  padding: 1px;
+}
+.nav-link{
+  font-size: 1.2em;
+}
+.download-button{
+  margin: 5% 3% 5% 0%;
+}
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+}
+.immm{
+  height: 145px;
+}
+#text{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #DAA520;
+
+}
+.royal{
+  padding-top: 5%;
+text-align: center;
+  width: 30%;
+  height: 30%;
+}
+#press{
+  padding: 7% 15%;
+  text-align: center;
+    background-color: #DAA520;
+
+}
+.motor{
+  margin: 3%;
+  width: 200px;
+}
+#Pricing{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #F9F58E;
+}
+.card{
+    margin: 5%;
+}
+.p{
+    font-family: montserrat;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#cta{
+  font-family: montserrat;
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #DAA520;
+}
+.cta-header{
+    text-align: center;
+    font-family: montserrat;
+    font-size: 3.0em;
+
+}
+@@media (max-width:1080px) {
+  .get{
+    width:100px;
+    height:100px;
+
+  }
+
+}
+#foot{
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+.contact{
+  width: 35px;
+}
